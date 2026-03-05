@@ -1,4 +1,4 @@
-## About Me...
+## 
 
 ```java
 class AboutMe {
