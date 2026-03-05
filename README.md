@@ -1,7 +1,7 @@
-## My Portfolio 💼
+## About Me...
 
 ```java
-class AboutMe {
+class MyPortfolio {
 
     public String name = "Taahir Hanslod";
     private int age = 20;
