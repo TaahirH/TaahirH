@@ -1,8 +1,7 @@
 ## About Me...
 
 ```java
-class AboutMe {
-    
+
     public String name = "Taahir Hanslod";
     private int age = 20;
 
