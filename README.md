@@ -29,13 +29,3 @@ class AboutMe {
     }
 }
 ```
-
-## 🚀 Skills
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![MATLAB](https://img.shields.io/badge/MATLAB-red?style=for-the-badge)
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=TaahirH&show_icons=true&theme=tokyonight)
